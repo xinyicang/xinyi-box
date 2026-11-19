@@ -61,16 +61,14 @@ def clean_name(name, fallback=""):
 
 
 def extract_category(raw_name, fallback="其他"):
-    """从原名提取分类: A 取 [标签], B 取竖线前缀; 再做归一映射。"""
+    """从原名提取分类: B 端优先取竖线前缀, A 端取 [标签]; 再做归一映射。"""
     s = str(raw_name or "")
-    token = None
-    m = re.search(r"\[([^\]]+)\]", s)
-    if m:
-        token = m.group(1)
+    parts = re.split(r"[|┃]", s, maxsplit=1)
+    if len(parts) == 2:
+        token = parts[0]
     else:
-        parts = re.split(r"[|┃]", s, maxsplit=1)
-        if len(parts) == 2:
-            token = parts[0]
+        m = re.search(r"\[([^\]]+)\]", s)
+        token = m.group(1) if m else None
     if not token:
         return fallback
     token = EMOJI.sub("", token).strip().strip("[]").strip()
