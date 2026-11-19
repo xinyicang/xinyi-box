@@ -1,0 +1,4414 @@
+{
+  "sites": [
+    {
+      "key": "py_1234影视",
+      "name": "心仪·1234影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/1234%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_275ts",
+      "name": "心仪·275听书",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/275ts.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_30剧集网",
+      "name": "心仪·30剧集网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/30%E5%89%A7%E9%9B%86%E7%BD%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_456dy",
+      "name": "心仪·456电影网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/456dy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_4K影视",
+      "name": "心仪·4K影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/4K%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_4K影视仓",
+      "name": "心仪·4K影视仓",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/4K%E5%BD%B1%E8%A7%86%E4%BB%93.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_55影院",
+      "name": "心仪·55影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/55%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_58vy",
+      "name": "心仪·58影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/58vy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_6080影视",
+      "name": "心仪·6080影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/6080%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_6080新视觉",
+      "name": "心仪·6080新视觉",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/6080%E6%96%B0%E8%A7%86%E8%A7%89.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_66大片网",
+      "name": "心仪·66大片网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/66%E5%A4%A7%E7%89%87%E7%BD%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_808yr",
+      "name": "心仪·808影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/808yr.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_8tdy",
+      "name": "心仪·八天电影",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/8tdy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_91pornsm",
+      "name": "心仪·91PornSM",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/91pornsm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_99短剧网",
+      "name": "心仪·99短剧网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/99%E7%9F%AD%E5%89%A7%E7%BD%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_AQY",
+      "name": "心仪·爱奇艺 海豚影视接口完全免费，请勿上当受骗",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/AQY.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_ASMR吧",
+      "name": "心仪·ASMR吧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/ASMR%E5%90%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_Auete影视",
+      "name": "心仪·Auete影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/Auete%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_CNFLIX",
+      "name": "心仪·CNFLIX",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/CNFLIX.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_EcoHub影视",
+      "name": "心仪·EcoHub影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/EcoHub%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_FoFo影院",
+      "name": "心仪·FoFo影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/FoFo%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_FreeOK",
+      "name": "心仪·FreeOK",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/FreeOK.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_GZ",
+      "name": "心仪·瓜子APP",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/GZ.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_GimyTV剧迷",
+      "name": "心仪·GimyTV剧迷",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/GimyTV%E5%89%A7%E8%BF%B7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_JP",
+      "name": "心仪·金牌APP",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/JP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_LIBVIO",
+      "name": "心仪·LIBVIO",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/LIBVIO.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_MGtv",
+      "name": "心仪·芒果TV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/MGtv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_MH",
+      "name": "心仪·麻花影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/MH.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_MiFun",
+      "name": "心仪·MiFun动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/MiFun.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_PTT线上看",
+      "name": "心仪·PTT线上看",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/PTT%E7%BA%BF%E4%B8%8A%E7%9C%8B.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_QQ音乐",
+      "name": "心仪·QQ音乐",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/QQ%E9%9F%B3%E4%B9%90.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_QU",
+      "name": "心仪·奇优影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/QU.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_VIP兔",
+      "name": "心仪·VIP兔",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/VIP%E5%85%94.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_VS影院",
+      "name": "心仪·VS影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/VS%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_XH",
+      "name": "心仪·星河影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/XH.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_YK",
+      "name": "心仪·优酷视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/YK.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_ZIP0影视",
+      "name": "心仪·ZIP0影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/ZIP0%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_animexin",
+      "name": "心仪·animexin",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/animexin.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_ayf",
+      "name": "心仪·爱壹帆影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/ayf.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_blzb",
+      "name": "心仪·哔哩直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/blzb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_cbh",
+      "name": "心仪·茶杯狐",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/cbh.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_cjjh",
+      "name": "心仪·采集聚合",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/cjjh.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_ddvm",
+      "name": "心仪·嘀嗒影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/ddvm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_ddyy",
+      "name": "心仪·低端影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/ddyy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_djjh",
+      "name": "心仪·短剧聚合",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/djjh.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_djyy",
+      "name": "心仪·DJ呦呦",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/djyy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_dnyy",
+      "name": "心仪·多瑙影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/dnyy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_dsys",
+      "name": "心仪·毒舌影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/dsys.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_dttv",
+      "name": "心仪·蛋挞TV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/dttv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_gqc",
+      "name": "心仪·共青春影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/gqc.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_guanfeng",
+      "name": "心仪·观风影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/guanfeng.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_hmjc",
+      "name": "心仪·河马剧场",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/hmjc.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_hstv",
+      "name": "心仪·华数TV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/hstv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_hxq",
+      "name": "心仪·韩小圈",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/hxq.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_ik4k影院",
+      "name": "心仪·ik4k影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/ik4k%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_ikbot",
+      "name": "心仪·爱看机器人",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/ikbot.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_jgvy",
+      "name": "心仪·追光影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/jgvy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_jhzb",
+      "name": "心仪·聚合直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/jhzb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_jok",
+      "name": "心仪·剧OK",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/jok.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_kf",
+      "name": "心仪·咖啡体育直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/kf.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_knvm",
+      "name": "心仪·柯南影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/knvm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_kwms",
+      "name": "心仪·酷我音乐",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/kwms.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_mtyy",
+      "name": "心仪·麦田影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/mtyy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_nmvm",
+      "name": "心仪·农民影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/nmvm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_nnyy",
+      "name": "心仪·努努影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/nnyy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_nvm",
+      "name": "心仪·泥视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/nvm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_pomo",
+      "name": "心仪·pomo",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/pomo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_qdvm",
+      "name": "心仪·奇点影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/qdvm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_qlys",
+      "name": "心仪·麒麟影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/qlys.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_qmvm",
+      "name": "心仪·七猫影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/qmvm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_qw",
+      "name": "心仪·七味",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/qw.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_rb",
+      "name": "心仪·热播APP",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/rb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_sdvy",
+      "name": "心仪·兄弟影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/sdvy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_sm",
+      "name": "心仪·熊猫直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/sm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_smdj",
+      "name": "心仪·星芽短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/smdj.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_teys",
+      "name": "心仪·太乙影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/teys.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_txvm",
+      "name": "心仪·腾讯视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/txvm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_vidhub",
+      "name": "心仪·vidhub",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/vidhub.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_wkvm",
+      "name": "心仪·悟空影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/wkvm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_wstv",
+      "name": "心仪·威视TV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/wstv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_ww",
+      "name": "心仪·哇哇APP",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/ww.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_xc",
+      "name": "心仪·星辰影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/xc.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_xhvm",
+      "name": "心仪·骚火影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/xhvm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_xmvm",
+      "name": "心仪·神马影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/xmvm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_youtube",
+      "name": "心仪·油管,py",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/youtube.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_youtube2",
+      "name": "心仪·油管直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/youtube2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_ysxq",
+      "name": "心仪·映像星球",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/ysxq.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_ytb",
+      "name": "心仪·悦听吧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/ytb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_zzvm",
+      "name": "心仪·枝枝影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/zzvm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_一起影视",
+      "name": "心仪·一起影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E4%B8%80%E8%B5%B7%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_七星短剧",
+      "name": "心仪·七星短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E4%B8%83%E6%98%9F%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_云朵视频",
+      "name": "心仪·云朵视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E4%BA%91%E6%9C%B5%E8%A7%86%E9%A2%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_云途影视",
+      "name": "心仪·云途影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E4%BA%91%E9%80%94%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_人人视频",
+      "name": "心仪·人人视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E4%BA%BA%E4%BA%BA%E8%A7%86%E9%A2%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_仙腾影院",
+      "name": "心仪·仙腾影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E4%BB%99%E8%85%BE%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_伊人网",
+      "name": "心仪·伊人网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E4%BC%8A%E4%BA%BA%E7%BD%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_兔岛影院",
+      "name": "心仪·兔岛影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%85%94%E5%B2%9B%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_八度影院",
+      "name": "心仪·八度影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%85%AB%E5%BA%A6%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_八戒影视",
+      "name": "心仪·八戒影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%85%AB%E6%88%92%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_共和国动漫",
+      "name": "心仪·共和国动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8A%A8%E6%BC%AB.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_初见影视",
+      "name": "心仪·初见影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%88%9D%E8%A7%81%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_刷不停短剧",
+      "name": "心仪·刷不停短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%88%B7%E4%B8%8D%E5%81%9C%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_剧下饭4K",
+      "name": "心仪·剧下饭4K",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%89%A7%E4%B8%8B%E9%A5%AD4K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_动漫巴士",
+      "name": "心仪·动漫巴士",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_千千音乐",
+      "name": "心仪·千千音乐",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%8D%83%E5%8D%83%E9%9F%B3%E4%B9%90.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_华谊影视",
+      "name": "心仪·华谊影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_厂长影视",
+      "name": "心仪·厂长影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%8E%82%E9%95%BF%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_厂长资源",
+      "name": "心仪·厂长资源",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_君念影院",
+      "name": "心仪·君念影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%90%9B%E5%BF%B5%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_听友听书",
+      "name": "心仪·听友听书",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%90%AC%E5%8F%8B%E5%90%AC%E4%B9%A6.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_咕噜咕噜",
+      "name": "心仪·咕噜咕噜",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_咸鱼影视",
+      "name": "心仪·咸鱼影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%92%B8%E9%B1%BC%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_喜福网",
+      "name": "心仪·喜福短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%96%9C%E7%A6%8F%E7%BD%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_在线短剧",
+      "name": "心仪·在线短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%9C%A8%E7%BA%BF%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_夏日影院",
+      "name": "心仪·夏日影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%A4%8F%E6%97%A5%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_多多影视",
+      "name": "心仪·多多影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%A4%9A%E5%A4%9A%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_大白鲨影院",
+      "name": "心仪·大白鲨影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%A4%A7%E7%99%BD%E9%B2%A8%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_大马猴",
+      "name": "心仪·大马猴",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%A4%A7%E9%A9%AC%E7%8C%B4.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_央视频",
+      "name": "心仪·央视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%A4%AE%E8%A7%86%E9%A2%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_奈非工厂",
+      "name": "心仪·奈非工厂",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%A5%88%E9%9D%9E%E5%B7%A5%E5%8E%82.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_好剧屋",
+      "name": "心仪·好剧屋",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%A5%BD%E5%89%A7%E5%B1%8B.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_好好看",
+      "name": "心仪·好好看",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%A5%BD%E5%A5%BD%E7%9C%8B.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_宅男影视",
+      "name": "心仪·宅男影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%AE%85%E7%94%B7%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_小宝影院",
+      "name": "心仪·小宝影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%B0%8F%E5%AE%9D%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_小蜜蜂影院",
+      "name": "心仪·小蜜蜂影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%B0%8F%E8%9C%9C%E8%9C%82%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_山水影视",
+      "name": "心仪·山水影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%B1%B1%E6%B0%B4%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_开心影院",
+      "name": "心仪·开心影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%BC%80%E5%BF%83%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_开心短剧",
+      "name": "心仪·开心短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%BC%80%E5%BF%83%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_开端影视",
+      "name": "心仪·开端影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%BC%80%E7%AB%AF%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_影子音乐",
+      "name": "心仪·影子音乐",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%BD%B1%E5%AD%90%E9%9F%B3%E4%B9%90.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_影巢movie",
+      "name": "心仪·影巢movie",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E5%BD%B1%E5%B7%A2movie.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_悟圣短剧",
+      "name": "心仪·悟圣短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%82%9F%E5%9C%A3%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_懂片帝AI",
+      "name": "心仪·懂片帝AI",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%87%82%E7%89%87%E5%B8%9DAI.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_手机影院",
+      "name": "心仪·手机影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%89%8B%E6%9C%BA%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_搜剧AI",
+      "name": "心仪·搜剧AI",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%90%9C%E5%89%A7AI.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_无极电影网",
+      "name": "心仪·无极电影网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%97%A0%E6%9E%81%E7%94%B5%E5%BD%B1%E7%BD%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_易听书网",
+      "name": "心仪·易听书网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%98%93%E5%90%AC%E4%B9%A6%E7%BD%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_星梦Asmr",
+      "name": "心仪·星梦Asmr",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%98%9F%E6%A2%A6Asmr.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_映刻短剧",
+      "name": "心仪·映刻短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%98%A0%E5%88%BB%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_未来影院",
+      "name": "心仪·未来影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%9C%AA%E6%9D%A5%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_极速追剧",
+      "name": "心仪·极速追剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%9E%81%E9%80%9F%E8%BF%BD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_果果短剧",
+      "name": "心仪·果果短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%9E%9C%E6%9E%9C%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_枫叶4K",
+      "name": "心仪·枫叶4K",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%9E%AB%E5%8F%B64K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_枫叶影院",
+      "name": "心仪·枫叶影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_楓林網",
+      "name": "心仪·楓林網",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%A5%93%E6%9E%97%E7%B6%B2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_樱之空动漫",
+      "name": "心仪·樱之空动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%A8%B1%E4%B9%8B%E7%A9%BA%E5%8A%A8%E6%BC%AB.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_橘汁视频",
+      "name": "心仪·橘汁视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%A9%98%E6%B1%81%E8%A7%86%E9%A2%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_毒舌短剧",
+      "name": "心仪·毒舌短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%AF%92%E8%88%8C%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_永乐视频",
+      "name": "心仪·永乐视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%B0%B8%E4%B9%90%E8%A7%86%E9%A2%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_泡泡影院",
+      "name": "心仪·泡泡影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%B3%A1%E6%B3%A1%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_洛雪TV",
+      "name": "心仪·洛雪TV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E6%B4%9B%E9%9B%AATV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_爱奇艺",
+      "name": "心仪·爱奇艺",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%88%B1%E5%A5%87%E8%89%BA.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_独播库",
+      "name": "心仪·独播库",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%8B%AC%E6%92%AD%E5%BA%93.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_电影侠",
+      "name": "心仪·电影侠",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%94%B5%E5%BD%B1%E4%BE%A0.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_界影视",
+      "name": "心仪·界影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%95%8C%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_白洋影院",
+      "name": "心仪·白洋影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%99%BD%E6%B4%8B%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_百度短剧",
+      "name": "心仪·百度短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%99%BE%E5%BA%A6%E7%9F%AD%E5%89%A7.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_百花影院",
+      "name": "心仪·百花影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%99%BE%E8%8A%B1%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_看剧AI",
+      "name": "心仪·看剧AI",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%9C%8B%E5%89%A7AI.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_看戏影视",
+      "name": "心仪·看戏影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%9C%8B%E6%88%8F%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_真狼影视",
+      "name": "心仪·真狼影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%9C%9F%E7%8B%BC%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_短剧大全",
+      "name": "心仪·短剧大全",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%9F%AD%E5%89%A7%E5%A4%A7%E5%85%A8.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_短剧巴士",
+      "name": "心仪·短剧巴士",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%9F%AD%E5%89%A7%E5%B7%B4%E5%A3%AB.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_石榴短剧",
+      "name": "心仪·石榴短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%9F%B3%E6%A6%B4%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_第七影院",
+      "name": "心仪·第七影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%AC%AC%E4%B8%83%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_第九短剧网",
+      "name": "心仪·第九短剧网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%AC%AC%E4%B9%9D%E7%9F%AD%E5%89%A7%E7%BD%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_红果短剧",
+      "name": "心仪·红果短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_红豆短剧",
+      "name": "心仪·红豆短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%BA%A2%E8%B1%86%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_绿色影视",
+      "name": "心仪·绿色影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%BB%BF%E8%89%B2%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_网飞TV",
+      "name": "心仪·网飞TV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%BD%91%E9%A3%9ETV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_网飞猫影视",
+      "name": "心仪·网飞猫影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%BD%91%E9%A3%9E%E7%8C%AB%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_美剧天堂",
+      "name": "心仪·美剧天堂",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E7%BE%8E%E5%89%A7%E5%A4%A9%E5%A0%82.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_腾爱优芒B",
+      "name": "心仪·腾爱优芒B",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%85%BE%E7%88%B1%E4%BC%98%E8%8A%92B.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_芭蕉剧场",
+      "name": "心仪·芭蕉剧场",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%8A%AD%E8%95%89%E5%89%A7%E5%9C%BA.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_茫茫",
+      "name": "心仪·芒果TV备用",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%8C%AB%E8%8C%AB.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_草莓影视",
+      "name": "心仪·草莓影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%8D%89%E8%8E%93%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_蚕驰短剧网",
+      "name": "心仪·蚕驰短剧网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%9A%95%E9%A9%B0%E7%9F%AD%E5%89%A7%E7%BD%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_蝶卡影视",
+      "name": "心仪·蝶卡影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%9D%B6%E5%8D%A1%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_袋鼠影视",
+      "name": "心仪·袋鼠影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%A2%8B%E9%BC%A0%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_视觉影院",
+      "name": "心仪·视觉影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%A7%86%E8%A7%89%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_豆花影视",
+      "name": "心仪·豆花影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%B1%86%E8%8A%B1%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_起点有声",
+      "name": "心仪·起点有声",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%B5%B7%E7%82%B9%E6%9C%89%E5%A3%B0.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_路漫漫",
+      "name": "心仪·路漫漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%B7%AF%E6%BC%AB%E6%BC%AB.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_达达兔影院",
+      "name": "心仪·达达兔影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%BE%BE%E8%BE%BE%E5%85%94%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_追剧达人",
+      "name": "心仪·追剧达人",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_追影",
+      "name": "心仪·追影",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E8%BF%BD%E5%BD%B1.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_青牛影视",
+      "name": "心仪·青牛影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E9%9D%92%E7%89%9B%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_青空次元",
+      "name": "心仪·青空次元",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E9%9D%92%E7%A9%BA%E6%AC%A1%E5%85%83.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_音乐聚合",
+      "name": "心仪·音乐聚合",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E9%9F%B3%E4%B9%90%E8%81%9A%E5%90%88.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_飞快TV",
+      "name": "心仪·飞快TV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E9%A3%9E%E5%BF%ABTV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_飞流视频",
+      "name": "心仪·飞流视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E9%A3%9E%E6%B5%81%E8%A7%86%E9%A2%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_飞牛影视",
+      "name": "心仪·飞牛影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E9%A3%9E%E7%89%9B%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_饭搭子影视",
+      "name": "心仪·饭搭子影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E9%A5%AD%E6%90%AD%E5%AD%90%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_首映网",
+      "name": "心仪·首映网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E9%A6%96%E6%98%A0%E7%BD%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_高清点播",
+      "name": "心仪·高清点播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E9%AB%98%E6%B8%85%E7%82%B9%E6%92%AD.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_魔法影视",
+      "name": "心仪·魔法影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E9%AD%94%E6%B3%95%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_黑猫动漫",
+      "name": "心仪·黑猫动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/spiders/%E9%BB%91%E7%8C%AB%E5%8A%A8%E6%BC%AB.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xy_drpy_js_豆瓣",
+      "name": "心仪·搜索 豆瓣",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/drpy.js"
+    },
+    {
+      "key": "xy_drpy_js_磁力熊搜索",
+      "name": "心仪·搜索 磁力熊",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "indexs": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/cilixiong.js"
+    },
+    {
+      "key": "xy_lf_js_search",
+      "name": "心仪·搜索 路飞",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/lf_search3_min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "xy_drpy_js_荐片",
+      "name": "心仪·影视 荐片",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%8D%90%E7%89%87.js"
+    },
+    {
+      "key": "xy_lf_js_p2p",
+      "name": "心仪·路飞 磁力",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/lf_p2p2_min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "xy_lf_js_lf_live",
+      "name": "心仪·电视 直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/lf_live_min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "oval"
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/lf_live.txt"
+    },
+    {
+      "key": "xy_drpy_js_酷云77",
+      "name": "心仪·影视 酷云77",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E9%85%B7%E4%BA%9177.js"
+    },
+    {
+      "key": "xy_drpy_js_快看",
+      "name": "心仪·影视 快看",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%BF%AB%E7%9C%8B.js"
+    },
+    {
+      "key": "xy_drpy_js_爱看",
+      "name": "心仪·影视 爱看",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%88%B1%E7%9C%8B.js"
+    },
+    {
+      "key": "xy_drpy_js_低端",
+      "name": "心仪·影视 低端",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/ddys_d.js"
+    },
+    {
+      "key": "xy_drpy_js_南瓜影视",
+      "name": "心仪·影视 南瓜影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_Auete",
+      "name": "心仪·影视 Auete",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/Auete.js"
+    },
+    {
+      "key": "xy_drpy_js_cokemv",
+      "name": "心仪·影视 cokemv",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/cokemv.js"
+    },
+    {
+      "key": "xy_drpy_js_LIBVIO",
+      "name": "心仪·影视 LIBVIO",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/LIBVIO.js"
+    },
+    {
+      "key": "xy_drpy_js_voflix",
+      "name": "心仪·影视 voflix",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/voflix.js"
+    },
+    {
+      "key": "xy_drpy_js_两个BT",
+      "name": "心仪·影视 两个BT",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E4%B8%A4%E4%B8%AABT.js"
+    },
+    {
+      "key": "xy_drpy_js_量子影视",
+      "name": "心仪·影视 量子影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E9%87%8F%E5%AD%90%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_农民",
+      "name": "心仪·影视 农民影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_在线之家",
+      "name": "心仪·影视 在线之家",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.js"
+    },
+    {
+      "key": "xy_drpy_js_量子资源",
+      "name": "心仪·影视 量子资源",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E9%87%8F%E5%AD%90%E8%B5%84%E6%BA%90.js"
+    },
+    {
+      "key": "xy_drpy_js_369影视",
+      "name": "心仪·影视 369影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/369%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_热播库",
+      "name": "心仪·影视 热播库",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%83%AD%E6%92%AD%E5%BA%93.js"
+    },
+    {
+      "key": "xy_drpy_js_蛋蛋剧",
+      "name": "心仪·影视 蛋蛋剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%9B%8B%E8%9B%8B%E5%89%A7.js"
+    },
+    {
+      "key": "xy_drpy_js_B站影视",
+      "name": "心仪·影视 B站影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/B%E7%AB%99%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_凌云影视",
+      "name": "心仪·影视 凌云影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_孜然影视",
+      "name": "心仪·影视 孜然影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%AD%9C%E7%84%B6%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_我爱跟剧",
+      "name": "心仪·影视 我爱跟剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%88%91%E7%88%B1%E8%B7%9F%E5%89%A7.js"
+    },
+    {
+      "key": "xy_drpy_js_干饭影视",
+      "name": "心仪·影视 干饭影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%B9%B2%E9%A5%AD%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_秋霞影视",
+      "name": "心仪·影视 秋霞影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%A7%8B%E9%9C%9E%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_阿布影院",
+      "name": "心仪·影视 阿布影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E9%98%BF%E5%B8%83%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_电影先生",
+      "name": "心仪·影视 电影先生",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%94%B5%E5%BD%B1%E5%85%88%E7%94%9F.js"
+    },
+    {
+      "key": "xy_drpy_js_落攻阁影视",
+      "name": "心仪·影视 落攻阁影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%90%BD%E6%94%BB%E9%98%81%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_69美剧",
+      "name": "心仪·影视 69美剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/69%E7%BE%8E%E5%89%A7.js"
+    },
+    {
+      "key": "xy_drpy_js_兄弟影视",
+      "name": "心仪·影视 兄弟影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_4k剧院",
+      "name": "心仪·影视 4k剧院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/4k%E5%89%A7%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_爱迪影视",
+      "name": "心仪·影视 爱迪影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%88%B1%E8%BF%AA%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_539影视",
+      "name": "心仪·影视 539影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/539%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_333影视",
+      "name": "心仪·影视 333影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/333%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_996影视",
+      "name": "心仪·影视 996影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/996%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_188影视",
+      "name": "心仪·影视 188影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/188%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_哔嘀影视",
+      "name": "心仪·影视 哔嘀影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_7喜影院",
+      "name": "心仪·影视 7喜影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/7%E5%96%9C%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_18哈",
+      "name": "心仪·影视 18哈",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/18%E5%93%88.js"
+    },
+    {
+      "key": "xy_drpy_js_567电影院",
+      "name": "心仪·影视 567电影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/567%E7%94%B5%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_Fun4K",
+      "name": "心仪·影视 Fun4K",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/Fun4K.js"
+    },
+    {
+      "key": "xy_drpy_js_KOK影院",
+      "name": "心仪·影视 KOK影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/KOK%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_TVB云播",
+      "name": "心仪·影视 TVB云播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/TVB%E4%BA%91%E6%92%AD.js"
+    },
+    {
+      "key": "xy_drpy_js_UrleBird[飞]",
+      "name": "心仪·影视 UrleBird",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/UrleBird%5B%E9%A3%9E%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_爱看影院",
+      "name": "心仪·影视 爱看影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%88%B1%E7%9C%8B%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_北川影视",
+      "name": "心仪·影视 北川影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%8C%97%E5%B7%9D%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_尘落影视",
+      "name": "心仪·影视 尘落影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%B0%98%E8%90%BD%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_达达龟",
+      "name": "心仪·影视 达达龟",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%BE%BE%E8%BE%BE%E9%BE%9F.js"
+    },
+    {
+      "key": "xy_drpy_js_蛋蛋赞",
+      "name": "心仪·影视 蛋蛋赞",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%9B%8B%E8%9B%8B%E8%B5%9E.js"
+    },
+    {
+      "key": "xy_drpy_js_多瑙影视",
+      "name": "心仪·影视 多瑙影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%A4%9A%E7%91%99%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_剧迷su",
+      "name": "心仪·影视 剧迷su",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%89%A7%E8%BF%B7su.js"
+    },
+    {
+      "key": "xy_drpy_js_看韩剧",
+      "name": "心仪·影视 看韩剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%9C%8B%E9%9F%A9%E5%89%A7.js"
+    },
+    {
+      "key": "xy_drpy_js_看了么",
+      "name": "心仪·影视 看了么",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%9C%8B%E4%BA%86%E4%B9%88.js"
+    },
+    {
+      "key": "xy_drpy_js_蓝光影院",
+      "name": "心仪·影视 蓝光影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_首播影院",
+      "name": "心仪·影视 首播影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E9%A6%96%E6%92%AD%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_小白菜电影",
+      "name": "心仪·影视 小白菜电影",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%B0%8F%E7%99%BD%E8%8F%9C%E7%94%B5%E5%BD%B1.js"
+    },
+    {
+      "key": "xy_drpy_js_影视工场",
+      "name": "心仪·影视 影视工场",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%9C%BA.js"
+    },
+    {
+      "key": "xy_drpy_js_影视之家[V2]",
+      "name": "心仪·影视 影视之家",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%BD%B1%E8%A7%86%E4%B9%8B%E5%AE%B6%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_悠久影院",
+      "name": "心仪·影视 悠久影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%82%A0%E4%B9%85%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_中国人线上看",
+      "name": "心仪·影视 中国人线上看",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BA%BF%E4%B8%8A%E7%9C%8B.js"
+    },
+    {
+      "key": "xy_drpy_js_555电影[V2]",
+      "name": "心仪·影视 555电影",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/555%E7%94%B5%E5%BD%B1%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_69美剧[V2]",
+      "name": "心仪·影视 69美剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/69%E7%BE%8E%E5%89%A7%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_cokemv[V2]",
+      "name": "心仪·影视 cokemv",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/cokemv%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_UM电影[V2]",
+      "name": "心仪·影视 UM电影",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/UM%E7%94%B5%E5%BD%B1%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_爱迪[V2]",
+      "name": "心仪·影视 爱迪",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%88%B1%E8%BF%AA%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_宝片[V2]",
+      "name": "心仪·影视 宝片",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%AE%9D%E7%89%87%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_刺桐[V2]",
+      "name": "心仪·影视 刺桐",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%88%BA%E6%A1%90%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_咕噜[V2]",
+      "name": "心仪·影视 咕噜",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%92%95%E5%99%9C%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_吼吼[V2]",
+      "name": "心仪·影视 吼吼",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%90%BC%E5%90%BC%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_曲奇影视[V2]",
+      "name": "心仪·影视 曲奇影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%9B%B2%E5%A5%87%E5%BD%B1%E8%A7%86%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_影探[V2]",
+      "name": "心仪·影视 影探",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%BD%B1%E6%8E%A2%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_北极狐[V2]",
+      "name": "心仪·影视 北极狐",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%8C%97%E6%9E%81%E7%8B%90%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_大米星球[V2]",
+      "name": "心仪·影视 大米星球",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_奈飞狗[V2]",
+      "name": "心仪·影视 奈飞狗",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%A5%88%E9%A3%9E%E7%8B%97%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_思古影视[V2]",
+      "name": "心仪·影视 思古影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%80%9D%E5%8F%A4%E5%BD%B1%E8%A7%86%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_映迷[V2]",
+      "name": "心仪·影视 映迷",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%98%A0%E8%BF%B7%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_美益达[V2]",
+      "name": "心仪·影视 美益达",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%BE%8E%E7%9B%8A%E8%BE%BE%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_落攻阁影视[V2]",
+      "name": "心仪·影视 落攻阁影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%90%BD%E6%94%BB%E9%98%81%E5%BD%B1%E8%A7%86%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_西门[V2]",
+      "name": "心仪·影视 西门",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xy_drpy_js_路人甲[V2]",
+      "name": "心仪·影视 路人甲",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%B7%AF%E4%BA%BA%E7%94%B2%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_鑫鑫[V2]",
+      "name": "心仪·影视 鑫鑫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E9%91%AB%E9%91%AB%5BV2%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_360影视",
+      "name": "心仪·官源 360",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/360%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_百忙无果",
+      "name": "心仪·官源 芒果",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
+    },
+    {
+      "key": "xy_drpy_js_腾云驾雾",
+      "name": "心仪·官源 腾讯",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"
+    },
+    {
+      "key": "xy_drpy_js_奇珍异兽",
+      "name": "心仪·官源 爱奇艺",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"
+    },
+    {
+      "key": "xy_drpy_js_菜狗",
+      "name": "心仪·官源 搜狗",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%8F%9C%E7%8B%97.js"
+    },
+    {
+      "key": "xy_drpy_js_优酷",
+      "name": "心仪·官源 优酷",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E4%BC%98%E9%85%B7.js"
+    },
+    {
+      "key": "xy_drpy_js_4KHDR",
+      "name": "心仪·磁力 4KHDR",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": "1",
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/4khdr.js"
+    },
+    {
+      "key": "xy_drpy_js_极影网",
+      "name": "心仪·磁力 极影网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": "1",
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/jiyingw.js"
+    },
+    {
+      "key": "xy_drpy_js_MP4US",
+      "name": "心仪·磁力 MP4电影",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": "1",
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/mp4us.js"
+    },
+    {
+      "key": "xy_drpy_js_电影港",
+      "name": "心仪·磁力 电影港",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": "1",
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/dygang.js"
+    },
+    {
+      "key": "xy_drpy_js_kuba",
+      "name": "心仪·磁力 酷吧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/kuba.js"
+    },
+    {
+      "key": "xy_drpy_js_xb6v",
+      "name": "心仪·磁力 新版6v",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": "1",
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/xb6v.js"
+    },
+    {
+      "key": "xy_drpy_js_美剧迷",
+      "name": "心仪·磁力 美剧迷",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/meijumi.js"
+    },
+    {
+      "key": "xy_drpy_js_ddys",
+      "name": "心仪·影视 低端影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/ddys.js"
+    },
+    {
+      "key": "xy_drpy_js_libvio",
+      "name": "心仪·影视 libvio",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/libvio.js"
+    },
+    {
+      "key": "xy_drpy_js_tzfile",
+      "name": "心仪·影视 团长影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/tzfile.js"
+    },
+    {
+      "key": "xy_drpy_js_dydhhy",
+      "name": "心仪·影视 dydhhy",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/dydhhy.js"
+    },
+    {
+      "key": "xy_drpy_js_97tvs",
+      "name": "心仪·影视 97tvs",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/97tvs.js"
+    },
+    {
+      "key": "xy_drpy_js_rrdyw",
+      "name": "心仪·影视 rrdyw",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/rrdyw.js"
+    },
+    {
+      "key": "xy_drpy_js_校长影视",
+      "name": "心仪·夸克 校长影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/xzys.js"
+    },
+    {
+      "key": "xy_drpy_js_yyets",
+      "name": "心仪·夸克 人人影视搜",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/yyets.js"
+    },
+    {
+      "key": "xy_drpy_js_奇妙搜[夸]",
+      "name": "心仪·夸克 奇妙搜",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/qimiao.js"
+    },
+    {
+      "key": "xy_drpy_js_愛盤搜",
+      "name": "心仪·夸克 爱盘搜",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/aipanso.js"
+    },
+    {
+      "key": "xy_drpy_js_趣盤搜",
+      "name": "心仪·夸克 趣盘搜",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/funletu.js"
+    },
+    {
+      "key": "xy_drpy_js_meow",
+      "name": "心仪·影视 meow搜",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/meow.js"
+    },
+    {
+      "key": "xy_drpy_js_磁力熊[磁]",
+      "name": "心仪·磁力 磁力熊",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%A3%81%E5%8A%9B%E7%86%8A%5B%E7%A3%81%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_6V新版[磁]",
+      "name": "心仪·磁力 6V新版",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/6V%E6%96%B0%E7%89%88%5B%E7%A3%81%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_童趣",
+      "name": "心仪·少儿 童趣",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%AB%A5%E8%B6%A3.js"
+    },
+    {
+      "key": "xy_drpy_js_兔小贝",
+      "name": "心仪·少儿 兔小贝",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
+    },
+    {
+      "key": "xy_drpy_js_有声绘本网",
+      "name": "心仪·少儿 有声绘本",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%9C%89%E5%A3%B0%E7%BB%98%E6%9C%AC%E7%BD%91.js"
+    },
+    {
+      "key": "xy_drpy_js_我的哔哩",
+      "name": "心仪·弹幕 哔哩合集",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%88%91%E7%9A%84%E5%93%94%E5%93%A9.js"
+    },
+    {
+      "key": "xy_drpy_js_哔哩直播",
+      "name": "心仪·弹幕 哔哩直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD.js"
+    },
+    {
+      "key": "xy_drpy_js_哔哩影视",
+      "name": "心仪·弹幕 哔哩影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%93%94%E5%93%A9%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_JustLive",
+      "name": "心仪·弹幕 JustLive",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/JustLive.js"
+    },
+    {
+      "key": "xy_drpy_js_斗鱼直播",
+      "name": "心仪·直播 斗鱼",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js"
+    },
+    {
+      "key": "xy_drpy_js_虎牙直播",
+      "name": "心仪·直播 虎牙",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js"
+    },
+    {
+      "key": "xy_drpy_js_310直播",
+      "name": "心仪·体育 310直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/310%E7%9B%B4%E6%92%AD.js"
+    },
+    {
+      "key": "xy_drpy_js_88看球",
+      "name": "心仪·体育 88看球",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/88%E7%9C%8B%E7%90%83.js"
+    },
+    {
+      "key": "xy_drpy_js_JRKAN直播",
+      "name": "心仪·体育 JRKAN直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/JRKAN%E7%9B%B4%E6%92%AD.js"
+    },
+    {
+      "key": "xy_drpy_js_抓饭体育",
+      "name": "心仪·体育 抓饭体育",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%8A%93%E9%A5%AD%E4%BD%93%E8%82%B2.js"
+    },
+    {
+      "key": "xy_drpy_js_好趣网",
+      "name": "心仪·电视 好趣网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%A5%BD%E8%B6%A3%E7%BD%91.js"
+    },
+    {
+      "key": "xy_drpy_js_相声随身听",
+      "name": "心仪·相声 相声随身听",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%9B%B8%E5%A3%B0%E9%9A%8F%E8%BA%AB%E5%90%AC.js"
+    },
+    {
+      "key": "xy_drpy_js_评书随身听",
+      "name": "心仪·评书 评书随身听",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%AF%84%E4%B9%A6%E9%9A%8F%E8%BA%AB%E5%90%AC.js"
+    },
+    {
+      "key": "xy_drpy_js_武享吧",
+      "name": "心仪·格斗 武享吧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%AD%A6%E4%BA%AB%E5%90%A7.js"
+    },
+    {
+      "key": "xy_drpy_js_Alist",
+      "name": "心仪·网盘 Alist",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/alist.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/alist.json"
+    },
+    {
+      "key": "xy_drpy_js_58动漫",
+      "name": "心仪·动漫 58动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/58%E5%8A%A8%E6%BC%AB.js"
+    },
+    {
+      "key": "xy_drpy_js_AGE动漫",
+      "name": "心仪·动漫 AGE动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/AGE%E5%8A%A8%E6%BC%AB.js"
+    },
+    {
+      "key": "xy_drpy_js_AnFuns",
+      "name": "心仪·动漫 AnFuns",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/AnFuns.js"
+    },
+    {
+      "key": "xy_drpy_js_Anime1动畫",
+      "name": "心仪·动漫 Anime1动畫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/Anime1%E5%8A%A8%E7%95%AB.js"
+    },
+    {
+      "key": "xy_drpy_js_NT动漫",
+      "name": "心仪·动漫 NT动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/NT%E5%8A%A8%E6%BC%AB.js"
+    },
+    {
+      "key": "xy_drpy_js_NyaFun",
+      "name": "心仪·动漫 NyaFun",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/NyaFun.js"
+    },
+    {
+      "key": "xy_drpy_js_爱弹幕",
+      "name": "心仪·动漫 爱弹幕",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%88%B1%E5%BC%B9%E5%B9%95.js"
+    },
+    {
+      "key": "xy_drpy_js_动漫岛",
+      "name": "心仪·动漫 动漫岛",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%8A%A8%E6%BC%AB%E5%B2%9B.js"
+    },
+    {
+      "key": "xy_drpy_js_路漫漫",
+      "name": "心仪·动漫 路漫漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%B7%AF%E6%BC%AB%E6%BC%AB.js"
+    },
+    {
+      "key": "xy_drpy_js_喵次元",
+      "name": "心仪·影视 喵次元",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%96%B5%E6%AC%A1%E5%85%83.js"
+    },
+    {
+      "key": "xy_drpy_js_奇米动漫",
+      "name": "心仪·动漫 奇米动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%A5%87%E7%B1%B3%E5%8A%A8%E6%BC%AB.js"
+    },
+    {
+      "key": "xy_drpy_js_去看吧",
+      "name": "心仪·动漫 去看吧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%8E%BB%E7%9C%8B%E5%90%A7.js"
+    },
+    {
+      "key": "xy_drpy_js_曲奇动漫",
+      "name": "心仪·动漫 曲奇动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"
+    },
+    {
+      "key": "xy_drpy_js_异世界动漫漫",
+      "name": "心仪·动漫 异世界动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%BC%82%E4%B8%96%E7%95%8C%E5%8A%A8%E6%BC%AB.js"
+    },
+    {
+      "key": "xy_drpy_js_怡萱动漫",
+      "name": "心仪·动漫 怡萱动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%80%A1%E8%90%B1%E5%8A%A8%E6%BC%AB.js"
+    },
+    {
+      "key": "xy_drpy_js_A8音乐",
+      "name": "心仪·音频 A8音乐",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/A8%E9%9F%B3%E4%B9%90.js"
+    },
+    {
+      "key": "xy_drpy_js_DJ音乐",
+      "name": "心仪·音频 DJ音乐",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/DJ%E9%9F%B3%E4%B9%90.js"
+    },
+    {
+      "key": "xy_drpy_js_啦啦DJ",
+      "name": "心仪·音频 啦啦DJ",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%95%A6%E5%95%A6DJ.js"
+    },
+    {
+      "key": "xy_drpy_js_清风DJ",
+      "name": "心仪·音频 清风DJ",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%B8%85%E9%A3%8EDJ.js"
+    },
+    {
+      "key": "xy_drpy_js_广播迷FM",
+      "name": "心仪·广播 广播迷FM",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%B9%BF%E6%92%AD%E8%BF%B7FM.js"
+    },
+    {
+      "key": "xy_drpy_js_蜻蜓FM",
+      "name": "心仪·广播 蜻蜓FM",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%9C%BB%E8%9C%93FM.js"
+    },
+    {
+      "key": "xy_drpy_js_i275听书",
+      "name": "心仪·听书 i275听书",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/i275%E5%90%AC%E4%B9%A6.js"
+    },
+    {
+      "key": "xy_drpy_js_爱上你听书网",
+      "name": "心仪·听书 爱上你听书",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%88%B1%E4%B8%8A%E4%BD%A0%E5%90%AC%E4%B9%A6%E7%BD%91.js"
+    },
+    {
+      "key": "xy_drpy_js_博看听书",
+      "name": "心仪·听书 博看听书",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js"
+    },
+    {
+      "key": "xy_drpy_js_海洋听书",
+      "name": "心仪·听书 海洋听书",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%B5%B7%E6%B4%8B%E5%90%AC%E4%B9%A6.js"
+    },
+    {
+      "key": "xy_drpy_js_六月听书",
+      "name": "心仪·听书 六月听书",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%85%AD%E6%9C%88%E5%90%AC%E4%B9%A6.js"
+    },
+    {
+      "key": "xy_drpy_js_有声小说",
+      "name": "心仪·听书 有声小说",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js"
+    },
+    {
+      "key": "xy_drpy_js_播客",
+      "name": "心仪·聚合 播客",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%92%AD%E5%AE%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_短视频",
+      "name": "心仪·聚合 短视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%9F%AD%E8%A7%86%E9%A2%91.js"
+    },
+    {
+      "key": "xy_drpy_js_酷6网",
+      "name": "心仪·聚合 酷6网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E9%85%B76%E7%BD%91.js"
+    },
+    {
+      "key": "xy_drpy_js_网易公版影像",
+      "name": "心仪·聚合 网易公版",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%BD%91%E6%98%93%E5%85%AC%E7%89%88%E5%BD%B1%E5%83%8F.js"
+    },
+    {
+      "key": "xy_drpy_js_爱车MV",
+      "name": "心仪·MV 爱车MV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%88%B1%E8%BD%A6MV.js"
+    },
+    {
+      "key": "xy_drpy_js_酷奇MV",
+      "name": "心仪·MV 酷奇",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E9%85%B7%E5%A5%87MV.js"
+    },
+    {
+      "key": "xy_drpy_js_爱看机器人",
+      "name": "心仪·影视 爱看机器人",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%88%B1%E7%9C%8B%E6%9C%BA%E5%99%A8%E4%BA%BA.js"
+    },
+    {
+      "key": "xy_drpy_js_ikanbot2",
+      "name": "心仪·影视 爱看机器人2",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/ikanbot2.js"
+    },
+    {
+      "key": "xy_drpy_js_ikanbot3",
+      "name": "心仪·影视 爱看机器人3",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/ikanbot3.js"
+    },
+    {
+      "key": "xy_drpy_js_jsapi2",
+      "name": "心仪·影视 百度测试",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/jsapi2.js"
+    },
+    {
+      "key": "xy_drpy_js_139影视",
+      "name": "心仪·影视 139影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/139%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_348电影网",
+      "name": "心仪·影视 348电影网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/348%E7%94%B5%E5%BD%B1%E7%BD%91.js"
+    },
+    {
+      "key": "xy_drpy_js_4K电影网",
+      "name": "心仪·影视 4K电影网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/4K%E7%94%B5%E5%BD%B1%E7%BD%91.js"
+    },
+    {
+      "key": "xy_drpy_js_8号影院",
+      "name": "心仪·影视 8号影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/8%E5%8F%B7%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_JangoIndex",
+      "name": "心仪·影视 JangoIndex",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/JangoIndex.js"
+    },
+    {
+      "key": "xy_drpy_js_NY影院",
+      "name": "心仪·影视 NY影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/NY%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_被窝电影",
+      "name": "心仪·影视 被窝电影",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%A2%AB%E7%AA%9D%E7%94%B5%E5%BD%B1.js"
+    },
+    {
+      "key": "xy_drpy_js_厂长资源",
+      "name": "心仪·影视 厂长资源",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
+    },
+    {
+      "key": "xy_drpy_js_楚门影院",
+      "name": "心仪·影视 楚门影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%A5%9A%E9%97%A8%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_大米星球",
+      "name": "心仪·影视 大米星球",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.js"
+    },
+    {
+      "key": "xy_drpy_js_飞兔影视",
+      "name": "心仪·影视 飞兔影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E9%A3%9E%E5%85%94%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_海兔影院",
+      "name": "心仪·影视 海兔影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%B5%B7%E5%85%94%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_花猫TV",
+      "name": "心仪·影视 花猫TV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%8A%B1%E7%8C%ABTV.js"
+    },
+    {
+      "key": "xy_drpy_js_花屋影院",
+      "name": "心仪·影视 花屋影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%8A%B1%E5%B1%8B%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_开眼视频",
+      "name": "心仪·影视 开眼视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%BC%80%E7%9C%BC%E8%A7%86%E9%A2%91.js"
+    },
+    {
+      "key": "xy_drpy_js_看了么",
+      "name": "心仪·影视 看了么",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%9C%8B%E4%BA%86%E4%B9%88.js"
+    },
+    {
+      "key": "xy_drpy_js_徕米TV",
+      "name": "心仪·影视 徕米TV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%BE%95%E7%B1%B3TV.js"
+    },
+    {
+      "key": "xy_drpy_js_乐鱼影视",
+      "name": "心仪·影视 乐鱼影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E4%B9%90%E9%B1%BC%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_美剧网",
+      "name": "心仪·影视 美剧网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%BE%8E%E5%89%A7%E7%BD%91.js"
+    },
+    {
+      "key": "xy_drpy_js_美视网",
+      "name": "心仪·影视 美视网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%BE%8E%E8%A7%86%E7%BD%91.js"
+    },
+    {
+      "key": "xy_drpy_js_米爱影视",
+      "name": "心仪·影视 米爱影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_免费看",
+      "name": "心仪·影视 免费看",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%85%8D%E8%B4%B9%E7%9C%8B.js"
+    },
+    {
+      "key": "xy_drpy_js_奈飞中文",
+      "name": "心仪·影视 奈飞中文",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%A5%88%E9%A3%9E%E4%B8%AD%E6%96%87.js"
+    },
+    {
+      "key": "xy_drpy_js_欧帝影院",
+      "name": "心仪·影视 欧帝影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%AC%A7%E5%B8%9D%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_皮皮鸭",
+      "name": "心仪·影视 皮皮鸭",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%9A%AE%E7%9A%AE%E9%B8%AD.js"
+    },
+    {
+      "key": "xy_drpy_js_朴樱影视",
+      "name": "心仪·影视 朴樱影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%9C%B4%E6%A8%B1%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_秋霞影院",
+      "name": "心仪·影视 秋霞影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%A7%8B%E9%9C%9E.js"
+    },
+    {
+      "key": "xy_drpy_js_热播之家",
+      "name": "心仪·影视 热播之家",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%83%AD%E6%92%AD%E4%B9%8B%E5%AE%B6.js"
+    },
+    {
+      "key": "xy_drpy_js_人人影视",
+      "name": "心仪·影视 人人影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_骚火电影",
+      "name": "心仪·影视 骚火电影",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.js"
+    },
+    {
+      "key": "xy_drpy_js_时光影视",
+      "name": "心仪·影视 时光影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%97%B6%E5%85%89%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_思古影视",
+      "name": "心仪·影视 思古影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%80%9D%E5%8F%A4%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_私人影院",
+      "name": "心仪·影视 私人影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%A7%81%E4%BA%BA%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_素白白",
+      "name": "心仪·影视 素白白",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%B4%A0%E7%99%BD%E7%99%BD.js"
+    },
+    {
+      "key": "xy_drpy_js_网飞.TV",
+      "name": "心仪·影视 网飞.TV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%BD%91%E9%A3%9E.TV.js"
+    },
+    {
+      "key": "xy_drpy_js_西瓜影院",
+      "name": "心仪·影视 西瓜影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%A5%BF%E7%93%9C%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_蜥蜴影视",
+      "name": "心仪·影视 蜥蜴影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%9C%A5%E8%9C%B4%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_小狗影院",
+      "name": "心仪·影视 小狗影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%B0%8F%E7%8B%97%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_新视觉影视",
+      "name": "心仪·影视 新视觉影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%96%B0%E8%A7%86%E8%A7%89%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_星辰影院",
+      "name": "心仪·影视 星辰影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%98%9F%E8%BE%B0.js"
+    },
+    {
+      "key": "xy_drpy_js_玄天",
+      "name": "心仪·影视 玄天",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%8E%84%E5%A4%A9.js"
+    },
+    {
+      "key": "xy_drpy_js_映迷影院",
+      "name": "心仪·影视 映迷影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%98%A0%E8%BF%B7%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_中国人",
+      "name": "心仪·影视 中国人",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E4%B8%AD%E5%9B%BD%E4%BA%BA.js"
+    },
+    {
+      "key": "xy_drpy_js_追剧迷",
+      "name": "心仪·影视 追剧迷",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%BF%BD%E5%89%A7%E8%BF%B7.js"
+    },
+    {
+      "key": "xy_drpy_js_子子影视",
+      "name": "心仪·影视 子子影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_大师兄影视",
+      "name": "心仪·起飞 大师兄影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "xy_drpy_js_华乐影院",
+      "name": "心仪·起飞 华乐影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%8D%8E%E4%B9%90%E5%BD%B1%E9%99%A2%5B%E9%A3%9E%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_天天视频",
+      "name": "心仪·起飞 天天视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%A4%A9%E5%A4%A9%E8%A7%86%E9%A2%91%5B%E9%A3%9E%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_起飞影院",
+      "name": "心仪·起飞 起飞影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%B5%B7%E9%A3%9E%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_兰花影院",
+      "name": "心仪·起飞 兰花影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%85%B0%E8%8A%B1%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "xy_drpy_js_胖虎",
+      "name": "心仪·起飞 胖虎",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E8%83%96%E8%99%8E.js"
+    },
+    {
+      "key": "xy_drpy_js_555影视[飞]",
+      "name": "心仪·起飞 555影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/555%E5%BD%B1%E8%A7%86%5B%E9%A3%9E%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_if101[飞]",
+      "name": "心仪·起飞 if101",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/if101%5B%E9%A3%9E%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_KUBO影视[飞]",
+      "name": "心仪·起飞 KUBO影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/KUBO%E5%BD%B1%E8%A7%86%5B%E9%A3%9E%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_爱壹帆[飞]",
+      "name": "心仪·起飞 爱壹帆",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%88%B1%E5%A3%B9%E5%B8%86%5B%E9%A3%9E%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_独播库[飞]",
+      "name": "心仪·起飞 独播库",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E7%8B%AC%E6%92%AD%E5%BA%93%5B%E9%A3%9E%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_欧乐影院[飞]",
+      "name": "心仪·起飞 欧乐影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2%5B%E9%A3%9E%5D.js"
+    },
+    {
+      "key": "xy_drpy_js_小宝影院[飞]",
+      "name": "心仪·起飞 小宝影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/%E5%B0%8F%E5%AE%9D%E5%BD%B1%E9%99%A2%5B%E9%A3%9E%5D.js"
+    },
+    {
+      "key": "xy_bb",
+      "name": "心仪·配置接口完全免费",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/drpy.js"
+    },
+    {
+      "key": "xy_cc",
+      "name": "心仪·请勿相信视频中任何广告",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/rules-js/drpy.js"
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "synced_at": "2026-11-19T05:01:51.765887Z",
+  "upstreams": {
+    "A": {
+      "repo": "707214981/tvbox-sources",
+      "count": 197
+    },
+    "B": {
+      "repo": "gaotianliuyun/gao",
+      "count": 227
+    }
+  }
+}
