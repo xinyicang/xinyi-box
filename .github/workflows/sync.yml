@@ -4,6 +4,8 @@ on:
   schedule:
     # 每天 06:00 (UTC+8) 自动同步上游
     - cron: "0 22 * * *"
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
