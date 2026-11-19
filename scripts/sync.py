@@ -5,9 +5,11 @@
 
 上游 A: 707214981/tvbox-sources  -> spiders/ 目录下的 py/js 爬虫脚本
 上游 B: gaotianliuyun/gao         -> js.json 中基于 drpy 的 js 规则源
+直播源: xinyicang/live-sources    -> tv/live.txt, 清洗后内置到本仓库 lives/
 
 同步规则:
 - 脚本本体复制到本仓库 spiders/ (A) 与 rules-js/ + lib/ (B)
+- 直播列表清洗后内置到 lives/xinyi-live.txt, 作为本仓库静态托管快照
 - 生成 TVBox 订阅配置 xinyi.json, 站点显示名按分类命名为 [分类]原名
 - 仅复刻 type=3 的 py/js 爬虫; csp_/jar 内置源需要 jar 包, 不纳入
 """
@@ -20,6 +22,7 @@ import shutil
 import subprocess
 import tempfile
 import urllib.parse
+import urllib.request
 
 REPO = "xinyicang/xinyi-box"
 BRANCH = "main"
@@ -27,11 +30,14 @@ RAW = f"https://raw.githubusercontent.com/{REPO}/{BRANCH}"
 
 UPSTREAM_A = {"repo": "707214981/tvbox-sources", "branch": "main", "dir": "spiders"}
 UPSTREAM_B = {"repo": "gaotianliuyun/gao", "branch": "master", "file": "js.json"}
+LIVE_UPSTREAM_URL = "https://raw.githubusercontent.com/xinyicang/live-sources/main/tv/live.txt"
+LIVE_FILE = "xinyi-live.txt"
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DIR_SPIDERS = os.path.join(ROOT, "spiders")
 DIR_RULES_JS = os.path.join(ROOT, "rules-js")
 DIR_LIB = os.path.join(ROOT, "lib")
+DIR_LIVES = os.path.join(ROOT, "lives")
 
 EMOJI = re.compile("[\U0001F000-\U0001FAFF\u2600-\u27BF\uFE0F]")
 
@@ -209,6 +215,41 @@ def sync_upstream_b():
     return sites, count
 
 
+def clean_live_text(text):
+    """清洗直播文本: 去空行/m3u 注释, 修复行尾多余逗号; 同名线路全部保留。"""
+    out = []
+    channels = 0
+    for raw in text.splitlines():
+        s = raw.strip()
+        if not s or s.startswith("#EXTINF") or s.startswith("#EXTM3U"):
+            continue
+        if s.endswith("#genre#"):
+            out.append(s)
+            continue
+        parts = s.split(",")
+        name = parts[0].strip()
+        url = next((p.strip() for p in reversed(parts[1:]) if p.strip()), "")
+        if not name or not url:
+            continue
+        out.append(f"{name},{url}")
+        channels += 1
+    return "\n".join(out) + "\n", channels
+
+
+def sync_live_snapshot():
+    """拉取上游直播列表, 清洗后内置到本仓库 lives/ 目录。返回频道数。"""
+    os.makedirs(DIR_LIVES, exist_ok=True)
+    req = urllib.request.Request(
+        LIVE_UPSTREAM_URL, headers={"User-Agent": "xinyi-box-sync"}
+    )
+    with urllib.request.urlopen(req, timeout=30) as r:
+        text = r.read().decode("utf-8", "ignore")
+    cleaned, count = clean_live_text(text)
+    with open(os.path.join(DIR_LIVES, LIVE_FILE), "w", encoding="utf-8") as f:
+        f.write(cleaned)
+    return count
+
+
 def main():
     stats = {
         "synced_at": datetime.datetime.utcnow().isoformat() + "Z",
@@ -221,7 +262,24 @@ def main():
     b_sites, b_count = sync_upstream_b()
     stats["upstreams"]["B"] = {"repo": UPSTREAM_B["repo"], "count": b_count}
 
+    live_count = 0
+    try:
+        live_count = sync_live_snapshot()
+    except Exception as e:
+        print("live snapshot fetch failed:", e)
+    stats["upstreams"]["live"] = {"repo": "xinyicang/live-sources", "count": live_count}
+
+    lives = []
+    if live_count > 0 or os.path.exists(os.path.join(DIR_LIVES, LIVE_FILE)):
+        lives.append({
+            "name": "心仪直播",
+            "type": 0,
+            "url": raw_url("lives", LIVE_FILE),
+            "playerType": 1,
+        })
+
     config = {
+        "lives": lives,
         "sites": a_sites + b_sites,
         "parses": [{"name": "Json聚合", "type": 3, "url": "Demo"}],
     }
@@ -231,7 +289,7 @@ def main():
     with open(os.path.join(ROOT, "stats.json"), "w", encoding="utf-8") as f:
         json.dump(stats, f, ensure_ascii=False, indent=2)
 
-    print(f"sites={len(config['sites'])} A={a_count} B={b_count}")
+    print(f"sites={len(config['sites'])} A={a_count} B={b_count} live={live_count}")
 
 
 if __name__ == "__main__":
