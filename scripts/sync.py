@@ -8,7 +8,7 @@
 
 同步规则:
 - 脚本本体复制到本仓库 spiders/ (A) 与 rules-js/ + lib/ (B)
-- 生成 TVBox 订阅配置 xinyi.json, 站点显示名统一加 "心仪·" 前缀
+- 生成 TVBox 订阅配置 xinyi.json, 站点显示名按分类命名为 【分类】原名
 - 仅复刻 type=3 的 py/js 爬虫; csp_/jar 内置源需要 jar 包, 不纳入
 """
 
@@ -35,6 +35,17 @@ DIR_LIB = os.path.join(ROOT, "lib")
 
 EMOJI = re.compile("[\U0001F000-\U0001FAFF\u2600-\u27BF\uFE0F]")
 
+# 分类归一: 追剧/官源/起飞 并入影视; 夸克并入网盘; 音频并入音乐; 其余各自保留
+CATEGORY_ALIAS = {
+    "追剧": "影视", "影视": "影视", "官源": "影视", "起飞": "影视",
+    "短剧": "短剧", "直播": "直播", "动漫": "动漫",
+    "音乐": "音乐", "音频": "音乐", "听书": "听书", "少儿": "少儿",
+    "体育": "体育", "搜索": "搜索", "磁力": "磁力", "网盘": "网盘",
+    "夸克": "网盘", "弹幕": "弹幕", "mv": "MV", "广播": "广播",
+    "相声": "相声", "评书": "评书", "格斗": "格斗", "聚合": "聚合",
+    "电视": "电视", "其他": "其他",
+}
+
 
 def clean_name(name, fallback=""):
     """去掉 emoji、分类方括号、分隔符、后缀, 得到可区分的干净名称。"""
@@ -47,6 +58,34 @@ def clean_name(name, fallback=""):
     s = re.sub(r"\.(py|js|txt)$", "", s, flags=re.I)
     s = re.sub(r"[\s·]+", " ", s).strip()
     return s or fallback
+
+
+def extract_category(raw_name, fallback="其他"):
+    """从原名提取分类: A 取 [标签], B 取竖线前缀; 再做归一映射。"""
+    s = str(raw_name or "")
+    token = None
+    m = re.search(r"\[([^\]]+)\]", s)
+    if m:
+        token = m.group(1)
+    else:
+        parts = re.split(r"[|┃]", s, maxsplit=1)
+        if len(parts) == 2:
+            token = parts[0]
+    if not token:
+        return fallback
+    token = EMOJI.sub("", token).strip().strip("[]").strip()
+    return CATEGORY_ALIAS.get(token) or CATEGORY_ALIAS.get(token.lower()) or (token or fallback)
+
+
+def split_b_name(raw):
+    """B 端名称形如 影视 | 荐片[js], 取竖线后段作为原名。"""
+    parts = re.split(r"[|┃]", str(raw or ""), maxsplit=1)
+    return parts[1].strip() if len(parts) == 2 else parts[0]
+
+
+def display_name(category, base):
+    """最终显示名: 【分类】原名。"""
+    return f"【{category}】{base}" if base else f"【{category}】"
 
 
 def raw_url(section, filename):
@@ -88,10 +127,12 @@ def sync_upstream_a():
         for f in files:
             shutil.copy2(os.path.join(a_src, f), os.path.join(DIR_SPIDERS, f))
             stem = os.path.splitext(f)[0]
-            base = clean_name(index.get(f, ""), stem)
+            raw = index.get(f, "")
+            category = extract_category(raw)
+            base = clean_name(raw, stem)
             sites.append({
                 "key": "py_" + stem,
-                "name": "心仪·" + base,
+                "name": display_name(category, base),
                 "type": 3,
                 "api": raw_url("spiders", f),
                 "searchable": 1,
@@ -130,9 +171,13 @@ def sync_upstream_b():
                 continue
             shutil.copy2(api_src, os.path.join(DIR_LIB, api_file))
 
+            raw = site.get("name") or api_file
+            category = extract_category(raw)
+            base = clean_name(split_b_name(raw), api_file)
+
             entry = {
                 "key": "xy_" + str(site.get("key") or api_file),
-                "name": "心仪·" + clean_name(site.get("name"), api_file),
+                "name": display_name(category, base),
                 "type": 3,
                 "api": raw_url("lib", api_file),
                 "searchable": site.get("searchable", 1),
