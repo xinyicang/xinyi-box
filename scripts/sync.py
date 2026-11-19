@@ -8,7 +8,7 @@
 
 同步规则:
 - 脚本本体复制到本仓库 spiders/ (A) 与 rules-js/ + lib/ (B)
-- 生成 TVBox 订阅配置 xinyi.json, 站点显示名按分类命名为 【分类】原名
+- 生成 TVBox 订阅配置 xinyi.json, 站点显示名按分类命名为 [分类]原名
 - 仅复刻 type=3 的 py/js 爬虫; csp_/jar 内置源需要 jar 包, 不纳入
 """
 
@@ -82,8 +82,8 @@ def split_b_name(raw):
 
 
 def display_name(category, base):
-    """最终显示名: 【分类】原名。"""
-    return f"【{category}】{base}" if base else f"【{category}】"
+    """最终显示名: [分类]原名。"""
+    return f"[{category}]{base}" if base else f"[{category}]"
 
 
 def raw_url(section, filename):
