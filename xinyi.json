@@ -1,4 +1,12 @@
 {
+  "lives": [
+    {
+      "name": "心仪直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/xinyicang/xinyi-box/main/lives/xinyi-live.txt",
+      "playerType": 1
+    }
+  ],
   "sites": [
     {
       "key": "py_1234影视",
