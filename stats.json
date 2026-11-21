@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-11-20T02:45:35.630623Z",
+  "synced_at": "2026-11-21T02:55:32.776797Z",
   "upstreams": {
     "A": {
       "repo": "707214981/tvbox-sources",
@@ -11,7 +11,7 @@
     },
     "live": {
       "repo": "xinyicang/live-sources",
-      "count": 895
+      "count": 893
     }
   }
 }
