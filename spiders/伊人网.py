@@ -4,6 +4,8 @@
 #   → 322622.xyz (2026-10-17) → 322722.xyz (2026-10-18) → 322922.xyz (2026-10-19, 旧域名全站 307 跳新域 /welcome)
 #   → 332339.xyz (2026-10-20, 旧域名全站 307 跳新域 /welcome)
 #   → 337332.xyz (2026-10-21, 旧域名全站 307 跳新域 /welcome)
+#   → 337334.xyz (2026-10-22, 旧域名全站 307 跳新域 /welcome)
+#   → 344044.xyz (2026-10-24, 旧域名全站 307 跳新域 /welcome; 第9次迁移, 自适应版从 337334 自动跟到新域并取回 5 分类, 无需改代码)
 #   站方公告(/welcome): "域名已更换, 请截图保存最新地址 WWW.277677.XYZ, 原有账号可继续使用"
 # 站型: Next.js App Router SPA + 自研 awesome-cms 前端安全层 (非 HTML 爬取, 全走 JSON 接口)
 #   1) 会话:  GET /api/front/client-session → {sessionId, secret, serverEpochMillis, expiresAt}
@@ -20,7 +22,7 @@
 #             列表 /api/front/contents?contentType=video&categoryId=&page=&pageSize=&sort=latest|hot
 #             详情 /api/front/contents/{id}?includeChapterContent=false
 #             搜索 /api/front/search?keyword=&contentType=video&page=&pageSize=
-#             取流 POST /api/front/videos/{id}/play-url  (免签名) → data.playUrl (m3u8)
+#             取流 POST /api/front/videos/{id}/play-url  (需签名) → data.playUrl (m3u8)
 #   5) m3u8: 相对 URI(根相对 key + 裸分片) → 走 localProxy 绝对化重写后回吐
 # 契约: 独立 class Spider(不继承 base.spider); header 为 dict; 会话三别名; 三级网络降级;
 #       方法签名带默认值; 无 print / 无 __main__
@@ -34,6 +36,8 @@
 #       v1.3 2026-10-22 域名迁移自适应: _http 检测跳转后最终 URL 的 host, 变化且符合
 #            www.<6位数字>.xyz 格式时自动换站重试一次(同步 Referer/Origin、重建会话);
 #            不符合格式的跳转一律不跟。SITE 更新为 https://www.337334.xyz (第8次迁移)。
+#            2026-10-24 第9次迁移(337334→344044): 自适应链路已验证(从旧域 307 自动跟到
+#            新域, 5 分类返回正常); SITE 前置到新域, 本地草稿, 未推送。
 
 import re, json, base64, time, hmac, hashlib, random, calendar
 from urllib.parse import urljoin, quote, urlencode, urlparse
@@ -176,7 +180,7 @@ def _fmt_dur(sec):
 
 
 class Spider:
-    SITE = "https://www.337334.xyz"
+    SITE = "https://www.344044.xyz"
     NAME = "伊人网"
     # 站点实际视频分类兜底(id 1/2/3/4/9; 站点日后调整会自动以接口为准)
     FALLBACK_CATS = (("1", "中文字幕"), ("2", "自拍"), ("3", "动漫"), ("4", "亚洲无码"), ("9", "国产AV"))
@@ -398,20 +402,31 @@ class Spider:
         return None
 
     def _play_url(self, cid):
-        """POST /api/front/videos/{id}/play-url (免签名) → m3u8"""
+        """POST /api/front/videos/{id}/play-url → m3u8（需签名：无签名请求站方直接挂起不回，2026-11-26 实测两次 30 秒超时；带签名的 POST 8 秒回 200 真 m3u8）"""
         path = "/api/front/videos/%s/play-url" % cid
-        st, txt = self._http(self.site + path, method="POST", data="{}",
-                             headers={"Content-Type": "application/json", "Accept": "application/json"})
-        if not txt:
-            return ""
-        try:
-            d = json.loads(txt).get("data") or {}
-        except Exception:
-            return ""
-        for k in ("playUrl", "directUrl", "proxyUrl", "url"):
-            v = d.get(k)
-            if isinstance(v, str) and v.startswith("http"):
-                return v
+        for attempt in (0, 1):
+            sess = self._ensure_session(force=(attempt == 1))
+            if not sess:
+                continue
+            h = self._sign_headers(sess, "POST", path)
+            h.update({"Content-Type": "application/json", "Accept": "application/json"})
+            st, txt = self._http(self.site + path, method="POST", data="{}",
+                                 headers=h, timeout=30)
+            if not txt:
+                continue
+            try:
+                j = json.loads(txt)
+            except Exception:
+                continue
+            if j.get("code") in (401, 403, 419) and attempt == 0:
+                continue  # 会话失效 → 强刷重试一次
+            d = j.get("data") or {}
+            if isinstance(d, dict) and "payload" in d and "iv" in d:
+                d = self._dec(d) or {}
+            for k in ("playUrl", "directUrl", "proxyUrl", "url"):
+                v = d.get(k)
+                if isinstance(v, str) and v.startswith("http"):
+                    return v
         return ""
 
     # ---------------- m3u8 绝对化重写 (供「代理」线路的 localProxy 使用) ----------------
